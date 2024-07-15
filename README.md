@@ -16,8 +16,9 @@ Designed and developed a Ground Support Equipment Management System along with a
 
 `company-crud.png` is the snapshot of the system where CRUD operation of the equipment is depicted
 
-`report-sample.PNG` is the snapshot of the system's reporting module
+`report-module.PNG` is the snapshot of the system's reporting module
 
+`report-sample.PNG` is the snapshot of a sample of the report
 
 
 ## Note
